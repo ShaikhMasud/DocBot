@@ -1,4 +1,4 @@
-# 🤖 DocBot an AI PDF Chat Assistant 
+# 🤖DocBot – AI-Powered PDF Chat Assistant
 
 This project is a full-stack AI-powered PDF question-answering system. It allows users to register, upload a PDF, and then interact with the content using a natural language chat interface powered by the **Groq LLM (LLaMA3-8B)**. It uses advanced document processing, embedding generation, and semantic retrieval for precise and context-aware answers.
 
