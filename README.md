@@ -86,8 +86,6 @@ MongoDB         LangChain + Groq API + FAISS
 
 ## 🖼️ UI Screenshots
 
-> Add your screenshots below in this section by replacing the placeholder image paths.
-
 ### 🔐 Login Page
 ![Screenshot 2025-06-15 162416](https://github.com/user-attachments/assets/f7f5e770-4299-4167-9c0d-bae4b1ac8790)
 
