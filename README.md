@@ -103,7 +103,6 @@ MongoDB         LangChain + Groq API + FAISS
 
 
 ### 💬 Chat Page with AI Assistant
-![Screenshot 2025-06-15 162633](https://github.com/user-attachments/assets/d23d3399-be31-41ce-9924-bd688fadef98)
 
 ![Screenshot 2025-06-15 163001](https://github.com/user-attachments/assets/a5cf1e6e-9d98-4b65-ae2b-c3ee072a931f)
 
