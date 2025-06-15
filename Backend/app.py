@@ -13,7 +13,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 app = Flask(__name__)
 CORS(app)
 
-groq_api_key = "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"
+groq_api_key = ""
 vector_store = None
 retrieval_chain = None
 
